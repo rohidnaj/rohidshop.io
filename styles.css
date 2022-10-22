@@ -1,0 +1,48 @@
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(240,240,240,1.00) 29.01%,rgba(229,229,229,1.00) 61.14%,rgba(0,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(240,240,240,1.00) 29.01%,rgba(229,229,229,1.00) 61.14%,rgba(0,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(240,240,240,1.00) 29.01%,rgba(229,229,229,1.00) 61.14%,rgba(0,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(240,240,240,1.00) 29.01%,rgba(229,229,229,1.00) 61.14%,rgba(0,0,0,1.00) 100%);
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(170,170,170,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(170,170,170,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(170,170,170,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(170,170,170,1.00) 100%);
+    color: #FFDD00;
+}
+.card.col-md-4.col-xl-12 .card-body .btn.btn-primary {
+    background-color: #000000;
+    color: #FFB601;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFB601;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #000000;
+    color: #FFB601;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #000000;
+    color: #FFB601;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #FFB601;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #FBB300;
+}
+
+
+#accordion1 .card #headingThree1 {
+    background-color: #000000;
+}
+#headingOne1 .mb-0 a {
+    color: #FFB601;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #FFB601;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+    background-color: #696969;
+}
